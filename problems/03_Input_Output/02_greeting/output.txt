@@ -1,0 +1,3 @@
+Гаралт
+------
+Нэг мөр хэвлэ: Hello, NAME! You are AGE years old.

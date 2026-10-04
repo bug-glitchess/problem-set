@@ -1,0 +1,3 @@
+Гаралт
+------
+Дараахын аль нэгийг хэвлэ: Not a triangle, Equilateral, Isosceles, Scalene.
